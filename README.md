@@ -1,4 +1,4 @@
 * 👋 Hi, I am @edrellias
 * 📈 I’m interested in empirical asset pricing and financial econometrics
-* 📚 I’m currently a Pre-Doc Researcher in Finance at King's Business School
+* 📚 I’m currently a Pre-Doc Researcher at the Banking & Finance Department of King's Business School
 * 📫 evangelos.drellias[at]kcl.ac.uk
